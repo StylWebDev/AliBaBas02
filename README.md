@@ -29,14 +29,15 @@
  
 <br> 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
-
-![Vite_icon](https://api.iconify.design/logos:vitejs.svg?width=60)
-![Vue_icon](https://api.iconify.design/logos:vue.svg?width=60)
-![Angular_icon](https://api.iconify.design/logos:angular-icon.svg?width=60)
-![TS_icon](https://api.iconify.design/logos:typescript-icon-round.svg?width=60)
-![Tailwinds_icon](https://api.iconify.design/logos:tailwindcss-icon.svg?width=60)
-![JS_icon](https://api.iconify.design/logos:javascript.svg?width=60)
-![Express_icon](https://api.iconify.design/skill-icons:expressjs-light.svg?width=60)
+<p align="center">
+  <span><img src="https://api.iconify.design/logos:vitejs.svg?width=60" alt="Vite_icon"/></span> 
+  <span><img src="https://api.iconify.design/logos:vue.svg?width=60" alt="Vue_icon"/></span> 
+  <span><img src="https://api.iconify.design/logos:angular-icon.svg?width=60" alt="Angular_icon"/></span> 
+  <span><img src="https://api.iconify.design/logos:typescript-icon-round.svg?width=60" alt="TS_icon"/></span> 
+  <span><img src="https://api.iconify.design/logos:tailwindcss-icon.svg?width=60" alt="Tailwinds_icon"/></span> 
+  <span><img src="https://api.iconify.design/logos:javascript.svg?width=60" alt="JS_icon"/></span> 
+  <span><img src="https://api.iconify.design/skill-icons:expressjs-light.svg?width=60" alt="Express_icon"/></span> 
+</p>
 
 <br> 
 <h2 align="center"> My GitHub Stats Until Now</h
