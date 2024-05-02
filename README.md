@@ -7,7 +7,7 @@
 <br> From litle age i loved computers and had a dream to attend in the informatics industry.
 <br>After lots of effort and studies i fulfied my dream and entered <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong> at the department of informatics in October 2019.
 <br> Last year and after lots of thoughts i finally decided to start my journey to become a Full Stack Web Developer!
-<br><br> Currenly i still being a Student at UOWM . I also, take udemy courses in order to expand my knowldge and then using it properly by creating extraordinary websites!
+<br><br> Currenly i am still being a Student at UOWM . I also, take udemy courses in order to expand my knowldge and then using it properly by creating extraordinary websites!
 </p>
 
 <br> 
