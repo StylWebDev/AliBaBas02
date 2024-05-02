@@ -10,7 +10,8 @@
 <br><br> Currenly i still being a Student at UOWM . I also, take udemy courses in order to expand my knowldge and then using it properly by creating extraordinary websites!
 </p>
 
- <h1 align="center">Lets Connect and have a talk</h1>
+<br> 
+ <h2 align="center">Lets Connect and have a talk</h1>
  <p align="center">
    <a href="https://www.instagram.com/_kostas_styl/?hl=en">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -25,8 +26,9 @@
     <img height="50" src="https://api.iconify.design/logos:discord-icon.svg?color=%234188be"/>
    </a>
  </p>
-
-<h1 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
+ 
+<br> 
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 
 ![Vite_icon](https://api.iconify.design/logos:vitejs.svg?width=60)
 ![Vue_icon](https://api.iconify.design/logos:vue.svg?width=60)
@@ -36,14 +38,16 @@
 ![JS_icon](https://api.iconify.design/logos:javascript.svg?width=60)
 ![Express_icon](https://api.iconify.design/skill-icons:expressjs-light.svg?width=60)
 
-<h1 align="center"> My GitHub Stats Until Now</h
+<br> 
+<h2 align="center"> My GitHub Stats Until Now</h
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AliBaBas02&show_icons=true&locale=en&theme=synthwave&count_private=true&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliBaBas02&theme=synthwave&hide_border=synthwave&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBaBas02&layout=donut&theme=synthwave&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AliBaBas02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" /> My websites:</h1>
+<br> 
+<h2 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" /> My websites:</h1>
 
 <table style="border: none; width="100%"">
   <tr>
@@ -61,8 +65,9 @@
     </td>
   </tr>
 </table>
- 
-<h1 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=30" /> Some Information About me That you might be interest in:</h1>
+
+ <br> 
+<h2 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=30" /> Some Information About me That you might be interest in:</h1>
 
 ```yaml
 current_position: Student.
