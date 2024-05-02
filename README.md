@@ -10,6 +10,22 @@
 <br><br> Currenly i still being a Student at UOWM . I also, take udemy courses in order to expand my knowldge and then using it properly by creating extraordinary websites!
 </p>
 
+ <h1 align="center">Lets Connect and have a talk</h1>
+ <p align="center">
+   <a href="https://www.instagram.com/_kostas_styl/?hl=en">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+   </a>
+   <a href="https://twitter.com/AliBaBaSssS/">
+    <img height="50" src="https://api.iconify.design/devicon:twitter.svg?color=%234188be"/>
+   </a>
+   <a href="https://www.linkedin.com/in/konstantinos-stylianou-a4a95625b/">
+    <img height="50" src="https://api.iconify.design/skill-icons:linkedin.svg?color=%234188be"/>
+   </a>
+   <a href="#">
+    <img height="50" src="https://api.iconify.design/logos:discord-icon.svg?color=%234188be"/>
+   </a>
+ </p>
+
 ## 🚀 &nbsp;Some Tools I Have Used and Learned
 
 ![Vite_icon](https://api.iconify.design/logos:vitejs.svg?width=60)
@@ -27,9 +43,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBaBas02&layout=donut&theme=synthwave&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AliBaBas02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ![network_icon](https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30) My websites:
+<h1 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" /> My websites:</h1>
 
-<table style="border: none;">
+<table style="border: none; width="100%"">
   <tr>
     <td valign="top">
       <ul>
