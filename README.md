@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=ffffff&height=100&width=100%)
 
 # ![Info_icon](https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=30) About:
+
 <p>
   My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas or AliBaBas</b>. I love Technology Especialy Coding. 
 <br> From litle age i loved computers and had a dream to attend in the informatics industry.
@@ -20,12 +21,14 @@
 ![Express_icon](https://api.iconify.design/skill-icons:expressjs-light.svg?width=60)
 
 ### My GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=AliBaBas02&show_icons=true&locale=en&theme=synthwave&count_private=true&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliBaBas02&theme=synthwave&hide_border=synthwave&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBaBas02&layout=donut&theme=synthwave&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AliBaBas02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ![network_icon](https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30) My websites:
+
 <table style="border: none;">
   <tr>
     <td valign="top">
@@ -45,6 +48,7 @@
  
 
 ## ![plus_info_icon](https://api.iconify.design/icon-park:other.svg?color=%234188be&width=30)  Some Information About me That you might be interest in:
+
 ```yaml
 current_position: Student.
 current_job: None (Self-Employed)
