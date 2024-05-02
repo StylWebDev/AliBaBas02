@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=ffffff&height=100&width=100%)
 
-# ![Info_icon](https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=30) About:
+<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=35"/> About:</h1>
 
 <p>
   My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas or AliBaBas</b>. I love Technology Especialy Coding. 
@@ -26,7 +26,7 @@
    </a>
  </p>
 
-## 🚀 &nbsp;Some Tools I Have Used and Learned
+<h1 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 
 ![Vite_icon](https://api.iconify.design/logos:vitejs.svg?width=60)
 ![Vue_icon](https://api.iconify.design/logos:vue.svg?width=60)
@@ -36,7 +36,7 @@
 ![JS_icon](https://api.iconify.design/logos:javascript.svg?width=60)
 ![Express_icon](https://api.iconify.design/skill-icons:expressjs-light.svg?width=60)
 
-### My GitHub Stats
+<h1 align="center"> My GitHub Stats Until Now</h
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AliBaBas02&show_icons=true&locale=en&theme=synthwave&count_private=true&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliBaBas02&theme=synthwave&hide_border=synthwave&include_all_commits=true)
@@ -62,8 +62,7 @@
   </tr>
 </table>
  
-
-## ![plus_info_icon](https://api.iconify.design/icon-park:other.svg?color=%234188be&width=30)  Some Information About me That you might be interest in:
+<h1 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=30" /> Some Information About me That you might be interest in:</h1>
 
 ```yaml
 current_position: Student.
