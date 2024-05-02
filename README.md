@@ -40,7 +40,7 @@
 </p>
 
 <br> 
-<h2 align="center"> My GitHub Stats Until Now</h
+<h2 align="center"> My GitHub Stats Until Now</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AliBaBas02&show_icons=true&locale=en&theme=synthwave&count_private=true&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliBaBas02&theme=synthwave&hide_border=synthwave&include_all_commits=true)
