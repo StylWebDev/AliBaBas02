@@ -28,7 +28,7 @@
 </p>
  
 <br> 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Learned and worked with</h1>
 <p align="center">
   <span><img src="https://api.iconify.design/logos:vitejs.svg?width=60" alt="Vite_icon"/></span> 
   <span><img src="https://api.iconify.design/logos:vue.svg?width=60" alt="Vue_icon"/></span> 
