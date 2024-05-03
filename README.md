@@ -68,7 +68,7 @@
 </table>
 
  <br> 
-<h2 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=30" /> My goals, achievements & Certificates in yamal style:</h1>
+<h2 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=25" /> My current position, goals, achievements & Certificates in a yamal style:</h1>
 
 ```yaml
 current_position: Student.
