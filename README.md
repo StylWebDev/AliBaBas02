@@ -17,7 +17,7 @@
    </a>
  </p>
 
-<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=35"/> Base Info About Myself</h1>
+<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=30"/> Base Info About Myself</h1>
 
 <p>
   My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas or AliBaBas</b>. I love Technology Especialy Coding. 
