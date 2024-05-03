@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=ffffff&height=100&width=100%)
 
-<br> 
  <h2 align="center">Lets Connect and have a talk</h1>
  <p align="center">
    <a href="https://www.instagram.com/_kostas_styl/?hl=en">
@@ -17,6 +16,7 @@
    </a>
  </p>
 
+<br>
 <h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=30"/> Base Info About Myself</h1>
 
 <p>
