@@ -48,7 +48,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AliBaBas02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br> 
-<h2 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" /> My websites:</h1>
+<h2 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" /> My Projects:</h1>
 
 <table style="border: none; width="100%"">
   <tr>
