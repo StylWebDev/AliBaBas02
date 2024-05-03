@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=ffffff&height=100&width=100%)
 
-<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=35"/> About:</h1>
-
-<p>
-  My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas or AliBaBas</b>. I love Technology Especialy Coding. 
-<br> From litle age i loved computers and had a dream to attend in the informatics industry.
-<br>After lots of effort and studies i fulfied my dream and entered <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong> at the department of informatics in October 2019.
-<br> Last year and after lots of thoughts i finally decided to start my journey to become a Full Stack Web Developer!
-<br><br> Currenly i am still being a Student at UOWM . I also, take udemy courses in order to expand my knowldge and then using it properly by creating extraordinary websites!
-</p>
-
 <br> 
  <h2 align="center">Lets Connect and have a talk</h1>
  <p align="center">
@@ -26,6 +16,16 @@
     <img height="50" src="https://api.iconify.design/logos:discord-icon.svg?color=%234188be"/>
    </a>
  </p>
+
+<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=35"/> Base Info About Myself</h1>
+
+<p>
+  My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas or AliBaBas</b>. I love Technology Especialy Coding. 
+<br> From litle age i loved computers and had a dream to attend in the informatics industry.
+<br>After lots of effort and studies i fulfied my dream and entered <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong> at the department of informatics in October 2019.
+<br> Last year and after lots of thoughts i finally decided to start my journey to become a Full Stack Web Developer!
+<br><br> Currenly i am still being a Student at UOWM . I also, take udemy courses in order to expand my knowldge and then using it properly by creating extraordinary websites!
+</p>
  
 <br> 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
@@ -68,7 +68,7 @@
 </table>
 
  <br> 
-<h2 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=30" /> Some Information About me That you might be interest in:</h1>
+<h2 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=30" /> My goals, achievements & Certificates in yamal style:</h1>
 
 ```yaml
 current_position: Student.
