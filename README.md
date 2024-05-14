@@ -17,15 +17,14 @@
  </p>
 
 <br>
-<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=30"/>About Myself</h1>
+<h1 align="center"><img src="https://api.iconify.design/twemoji:man-detective-medium-skin-tone.svg?width=35"/> About Myself</h1>
 
 <p>
-  My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
-<br> From young age i loved computers and had a dream to attend the informatics industry.
-<br>After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019.
-<br> Last year i decided to start my coiding journey as  a Front End Web Developer!
-<br><br> Untill now, i managed to master Tailwinds CSS,JavaScript & TypeScript and also Vue JS Framework.
-<br><br> Currently,i work on my Vue projects (like StylsForecast) and also take backend (node and express) & angular courses in order to improve my skills and become a full stack developer.
+ - My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
+<br><br>- From young age i loved computers and had a dream to attend the informatics industry. After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019.
+<br><br>- Last year i decided to start my coiding journey as  a Front End Web Developer!
+<br><br>- Untill now, i managed to master Tailwinds CSS, JavaScript & TypeScript and also Vue JS Framework.
+<br><br>- Currently, i work on my Vue projects (like StylsForecast) and also take backend (node and express) & angular courses in order to improve my skills and become a full stack developer.
 </p>
  
 <br> 
@@ -69,7 +68,7 @@
 </table>
 
  <br> 
-<h2 align="center"><img src="https://api.iconify.design/icon-park:more-two.svg?color=%234188be&width=25" /> My current position, goals, achievements & Certificates in a yamal style:</h1>
+<h2 align="center"><img src="https://api.iconify.design/twemoji:magnifying-glass-tilted-right.svg?width=35" /> My current position, goals, achievements & Certificates in a yamal style:</h1>
 
 ```yaml
 current_position: Student.
