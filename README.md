@@ -24,7 +24,7 @@
 <br> From young age i loved computers and had a dream to attend the informatics industry.
 <br>After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019.
 <br> Last year i decided to start my coiding journey as  a Front End Web Developer!
-<br><br> Untill now, i managed to master Tailwinds CSS ,JavaScript & TypeScript and also Vue JS Framework.
+<br><br> Untill now, i managed to master Tailwinds CSS,JavaScript & TypeScript and also Vue JS Framework.
 <br><br> Currently,i work on my Vue projects (like StylsForecast) and also take backend (node and express) & angular courses in order to improve my skills and become a full stack developer.
 </p>
  
