@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=ffffff&height=100&width=100%)
 
- <h2 align="center">Connect And Contact Me through: </h1>
+ <h2 align="center">Let's Connect And Have A Talk: </h1>
  <p align="center">
    <a href="https://www.instagram.com/_kostas_styl/?hl=en">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -17,14 +17,15 @@
  </p>
 
 <br>
-<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=30"/> Base Info About Myself</h1>
+<h1 align="center"><img src="https://api.iconify.design/tabler:info-hexagon-filled.svg?color=%234188be&width=30"/>About Myself</h1>
 
 <p>
-  My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas or AliBaBas</b>. I love Technology Especialy Coding. 
+  My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
 <br> From young age i loved computers and had a dream to attend the informatics industry.
 <br>After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019.
-<br> Last year i finally decided to start my journey to become a Full Stack Web Developer!
-<br><br> Currenly i am still being a Student at UOWM and also taking courses in order to expand my knowldge, becoming a better web developer.
+<br> Last year i decided to start my coiding journey as  a Front End Web Developer!
+<br><br> Untill now, i managed to master Tailwinds CSS ,JavaScript & TypeScript and also Vue JS Framework.
+<br><br> Currently,i work on my Vue projects (like StylsForecast) and also take backend (node and express) & angular courses in order to improve my skills and become a full stack developer.
 </p>
  
 <br> 
