@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=ffffff&height=100&width=100%)
+![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=343434&height=100&width=100%)
 
  <h2 align="center">Let's Connect And Have A Talk: </h1>
  <p align="center">
