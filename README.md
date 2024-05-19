@@ -58,7 +58,7 @@
         <li><a href="https://mindspectrum.pages.dev/"><img src="https://api.iconify.design/ph:activity-bold.svg?color=%2322ce2d" width="20px" /> MindSpectrum </a></li>
         <li><a href="https://stylquizzes.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/logo.svg" width="20px" /> StylsQuizzes</a></li>
         <li><a href="https://pokeinfo.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/pokeIcon.png" width="20px" /> PokeInfo</a></li>
-        <li><a href="https://stylnotes.pages.dev"><img src="https://api.iconify.design/line-md:clipboard-list.svg?color=%2322ffffff" width="20px" /> StylNotes</a> </li>
+        <li><a href="https://stylsnotes.pages.dev"><img src="https://api.iconify.design/line-md:clipboard-list.svg?color=%2322ffffff" width="20px" /> StylNotes</a> </li>
       </ul>
     </td>
     <td valign="top">
