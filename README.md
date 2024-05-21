@@ -28,7 +28,7 @@
 </p>
  
 <br> 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Learned and worked with</h1>
+<h2 align="center"> 🚀 &nbsp;Some Toolsc & Languages I Have been worked with</h1>
 <p align="center">
   <span><img src="https://api.iconify.design/logos:vitejs.svg?width=60" alt="Vite_icon"/></span> 
   <span><img src="https://api.iconify.design/logos:vue.svg?width=60" alt="Vue_icon"/></span> 
@@ -48,7 +48,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AliBaBas02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br> 
-<h2 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" /> My Projects:</h1>
+<h2 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" />Projects I Have Worked On:</h1>
 
 <table style="border: none; width="100%"">
   <tr>
