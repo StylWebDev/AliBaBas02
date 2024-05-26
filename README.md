@@ -20,7 +20,7 @@
 <h1 align="center"><img src="https://api.iconify.design/twemoji:man-detective-medium-skin-tone.svg?width=35"/> About Myself</h1>
 
 <p>
- - My Name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
+ - My full name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
 <br><br>- From young age i loved computers and had a dream to attend the informatics industry. After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019.
 <br><br>- Last year i decided to start my coiding journey as  a Front End Web Developer!
 <br><br>- Untill now, i managed to master Tailwinds CSS, JavaScript & TypeScript and also Vue JS Framework.
