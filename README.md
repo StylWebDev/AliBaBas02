@@ -17,7 +17,7 @@
  </p>
 
 <br>
-<h1 align="center"><img src="https://api.iconify.design/twemoji:man-detective-medium-skin-tone.svg?width=35"/> About Myself</h1>
+<h1 align="center"><img src="https://api.iconify.design/twemoji:man-detective-medium-skin-tone.svg?width=35"/> About Myself:</h1>
 
 <p>
  - My full name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
@@ -28,7 +28,7 @@
 </p>
  
 <br> 
-<h2 align="center"> 🚀 &nbsp;Some Tools & Languages I am working on</h1>
+<h2 align="center"> 🚀 &nbsp;Some Tools & Languages I am working on:</h1>
 <p align="center">
   <span><img src="https://api.iconify.design/logos:vitejs.svg?width=60" alt="Vite_icon"/></span> 
   <span><img src="https://api.iconify.design/logos:vue.svg?width=60" alt="Vue_icon"/></span> 
@@ -40,7 +40,7 @@
 </p>
 
 <br> 
-<h2 align="center"> My GitHub Stats Until Now</h2>
+<h2 align="center"> My GitHub Stats Until Now:</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AliBaBas02&show_icons=true&locale=en&theme=synthwave&count_private=true&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliBaBas02&theme=synthwave&hide_border=synthwave&include_all_commits=true)
