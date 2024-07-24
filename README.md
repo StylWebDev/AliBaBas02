@@ -57,6 +57,7 @@
         <li><a href="https://stylforecast.pages.dev/"><img src="https://api.iconify.design/ri:meteor-fill.svg?color=%2322ce2d" width="20px" /> StylForecast </a></li>
         <li><a href="https://mindspectrum.pages.dev/"><img src="https://api.iconify.design/ph:activity-bold.svg?color=%2322ce2d" width="20px" /> MindSpectrum </a></li>
         <li><a href="https://stylquizzes.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/logo.svg" width="20px" /> StylsQuizzes</a></li>
+        <li><a href="https://styls.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/logo.svg" width="20px" /> StylsDev</a></li>
         <li><a href="https://pokeinfo.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/pokeIcon.png" width="20px" /> PokeInfo</a></li>
         <li><a href="https://stylsnotes.pages.dev"><img src="https://api.iconify.design/line-md:clipboard-list.svg?color=%2322ffffff" width="20px" /> StylNotes</a> </li>
       </ul>
@@ -75,8 +76,7 @@ current_position: Student.
 current_job: None (Self-Employed)
 education: bachelor's degree in informatics
 currently_learning: [
-                      "The Vue 3 Bootcamp - The Complete Developer Guide",
-                      "Understanding TypeScript"
+                      "Angular The Complete Guide (2024 Edition)."
                     ]
 fields_of_interests:[
                       "Frontend Web Development"
@@ -84,8 +84,13 @@ fields_of_interests:[
                       "Data Science"
                       "UI/UX"
                     ]
-2024 Goals: ["Learn Vue, Nuxt, TypeScript and Angular at 100%, also Compelete StylForecast Project!"] 
+2024 Goals: ["Learn Nuxt and Angular at 100%, also Compelete StylForecast Project!"] 
 certification: [
+  Udemy: [
+           "The Vue 3 Bootcamp - The Complete Developer Guide",
+           "Understanding TypeScript",
+           "Vue 3 composition API with pinia and firebase"
+         ]
   sololearn: [
                "Tech For Everyone"
                "HTML"
