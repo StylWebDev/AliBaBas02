@@ -39,7 +39,7 @@
   <span><img src="https://api.iconify.design/skill-icons:mongodb.svg?width=60" alt="Mongo_icon"/></span>
   <span><img src="https://api.iconify.design/devicon:nodejs.svg?width=60" alt="Node_icon"/></span> 
   <span><img src="https://api.iconify.design/skill-icons:mysql-dark.svg?width=60" alt="MySQL_icon"/></span> 
-  <span><img src="https://api.iconify.design/skill-icons:expressjs-light.svg?width=60?width=60" alt="Express_icon"/></span> 
+  <span><img src="https://api.iconify.design/skill-icons:expressjs-light.svg?width=60" alt="Express_icon"/></span> 
 </p>
 
 <br> 
