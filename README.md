@@ -35,7 +35,10 @@
   <span><img src="https://api.iconify.design/logos:angular-icon.svg?width=60" alt="Angular_icon"/></span> 
   <span><img src="https://api.iconify.design/logos:typescript-icon-round.svg?width=60" alt="TS_icon"/></span> 
   <span><img src="https://api.iconify.design/logos:tailwindcss-icon.svg?width=60" alt="Tailwinds_icon"/></span> 
-  <span><img src="https://api.iconify.design/logos:javascript.svg?width=60" alt="JS_icon"/></span> 
+  <span><img src="https://api.iconify.design/logos:javascript.svg?width=60" alt="JS_icon"/></span>
+  <span><img src="https://api.iconify.design/skill-icons:mongodb.svg" alt="Mongo_icon"/></span>
+  <span><img src="https://api.iconify.design/devicon:nodejs.svg" alt="Node_icon"/></span> 
+  <span><img src="skill-icons:mysql-dark" alt="MySQL_icon"/></span> 
   <span><img src="https://api.iconify.design/skill-icons:expressjs-light.svg?width=60" alt="Express_icon"/></span> 
 </p>
 
